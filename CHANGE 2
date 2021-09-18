@@ -1,0 +1,71 @@
+include <iostream>
+using namespace std;
+
+int main()
+{
+    int age;
+
+    cout<<"Enter the age of user:";
+    cin >> age;
+    switch (age) {
+    case 0:
+    cout << "You are not Eligible";
+    break;
+    case 1:
+    cout << "You are not Eligible";
+    break;
+    case 2:
+    cout << "You are not Eligible";
+    break;
+    case 3:
+    cout << "You are not Eligible";
+    break;
+    case 4:
+    cout << "You are not Eligible";
+    break;
+    case 5:
+    cout << "You are not Eligible";
+    break;
+    case 6:
+    cout << "You are not Eligible";
+    break;
+    case 7:
+    cout << "You are not Eligible";
+    break;
+    case 8:
+    cout << "You are not Eligible";
+    break;
+    case 9:
+    cout << "You are not Eligible";
+    break;
+    case 10:
+    cout << "You are not Eligible";
+    break;
+    case 11:
+    cout << "You are not Eligible";
+    break;
+    case 12:
+    cout << "You are not Eligible";
+    break;
+    case 13:
+    cout << "You are not Eligible";
+    break;
+    case 14:
+    cout << "You are not Eligible";
+    break;
+    case 15:
+    cout << "You are not Eligible";
+    break;
+    case 16:
+    cout << "You are not Eligible";
+    break;
+    case 17:
+    cout << "You are not Eligible";
+    break;
+    
+    default:
+    cout << "You are eligible";
+    break;
+    }
+    return 0;
+}
